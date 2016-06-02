@@ -12,3 +12,8 @@ dev not fast merge test
 add something
 dev fast merge test
 creating a new branch is quick & simple
+
+
+
+
+bug branch test

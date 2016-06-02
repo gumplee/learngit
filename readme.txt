@@ -6,6 +6,9 @@ update again
 Git is free software under the GPL
 distributed!
 
+
+dev not fast merge test
+
 add something
 dev fast merge test
 creating a new branch is quick & simple
